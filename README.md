@@ -22,7 +22,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <repository-url>
-cd checking-sites
+cd aplus-checking-sites
 ```
 
 2. Установите зависимости:
